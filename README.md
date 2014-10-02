@@ -1,13 +1,13 @@
 Cheatsheets
 ===========
-- https://github.com/Ciberth/Cheatsheets-checklists/blob/master/cheatsheets/git.md
-- https://github.com/Ciberth/Cheatsheets-checklists/blob/master/cheatsheets/vagrant.md
+- [Git](https://github.com/Ciberth/Cheatsheets-checklists/blob/master/cheatsheets/git.md)
+- [Vagrant](https://github.com/Ciberth/Cheatsheets-checklists/blob/master/cheatsheets/vagrant.md)
 
 
 Checklist
 ===========
-[Url checklist1]
-[Url checklist2]
+-[Opdracht 0](https://github.com/Ciberth/Cheatsheets-checklists/blob/master/opdrachten/opdracht0.md)
+-[Url checklist2]
 
 Interesting Read's & Tools
 ===========

@@ -10,7 +10,7 @@ Software
 - [x] git + bitbucket
 - [x] bash shell
 - [x] ansible
-- [] Ruby en Serverspec
+- [ ] Ruby en Serverspec
 
 Versiebeheer
 ---------------------
@@ -24,10 +24,10 @@ Vagrant en Ansible
 - [x] 192.168.56.0/24
 - [x] vast ip (192.168.56.70)
 - [x] contact host-systeem
-- [] Ansible-playbooks kunnen uitgevoerd worden
+- [ ] Ansible-playbooks kunnen uitgevoerd worden
 
 Testen
 ---------------------
-- [] Batch Automated Test System (BATS)
-- [] Serverspec
+- [ ] Batch Automated Test System (BATS)
+- [ ] Serverspec
 
