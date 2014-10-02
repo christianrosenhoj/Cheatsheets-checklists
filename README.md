@@ -1,7 +1,7 @@
 Cheatsheets
 ===========
-[Url cheatseetsoort1]
-[Url cheatseetsoort2]
+- https://github.com/Ciberth/Cheatsheets-checklists/blob/master/cheatsheets/git.md
+- https://github.com/Ciberth/Cheatsheets-checklists/blob/master/cheatsheets/vagrant.md
 
 
 Checklist
