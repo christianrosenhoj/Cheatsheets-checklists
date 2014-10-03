@@ -24,10 +24,10 @@ Vagrant en Ansible
 - [x] 192.168.56.0/24
 - [x] vast ip (192.168.56.70)
 - [x] contact host-systeem
-- [ ] Ansible-playbooks kunnen uitgevoerd worden
+- [x] Ansible-playbooks kunnen uitgevoerd worden
 
 Testen
 ---------------------
-- [ ] Batch Automated Test System (BATS)
+- [x] Batch Automated Test System (BATS)
 - [ ] Serverspec
 
