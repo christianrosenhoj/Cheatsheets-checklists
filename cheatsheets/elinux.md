@@ -30,6 +30,10 @@
 
 Configuration is stored in /etc/firewalld and /usr/lib/firewalld
 
+TODO
+
+yum update provides (en overlopen/committen checklist lamp, dns)
+
 ## Resources
 [Github Bertvv](https://github.com/bertvv/cheat-sheets/blob/master/src/EL7.md "Bertvv")
 
