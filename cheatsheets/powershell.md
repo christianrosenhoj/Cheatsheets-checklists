@@ -7,6 +7,7 @@ Powershell Cheatsheet
 | `gsv | clip`						| Clips output of `gsv` to the clipboard
 | `get-help | gm`					| Check what object `get-help` is
 | `ls | get-object name`			| Take only one column (in this case name)
+| `-Whatif`							| Whatif I do something? Check without running
 
 # Some examples
 | Command							| Meaning
@@ -14,6 +15,9 @@ Powershell Cheatsheet
 | `get-process | export-csv c:\proc.csv` | creates a file with all the processes
 | `get-process | out-gridview`		| nice gridview
 | `get-service | convertto-html -Property Displayname, status | out-file c:\info.html` | html page
+| `get-pssnapin -registered` 		| find registered snappins
+| `add-pssnapin sql*`				| example of adding sql* snapin (use get-command -module sql* to check contents)
+
 
 
 
