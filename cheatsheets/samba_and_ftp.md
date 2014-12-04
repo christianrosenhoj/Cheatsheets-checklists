@@ -71,8 +71,8 @@
 
 ## Example config files
 
-Vsftpd.conf:
+
 ![Vsftpd](imgs/vsftpd.PNG)
 
-Smb.conf
+
 ![Vsftpd](imgs/samba.PNG)
