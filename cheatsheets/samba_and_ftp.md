@@ -1,5 +1,7 @@
 #Samba and FTP
 
+## Thomas Clauwaert 
+
 ###Required packages
 
 - `libsemanage-python`
@@ -70,6 +72,7 @@
 ## Example config files
 
 Vsftpd.conf:
-[]()
+![Vsftpd](imgs/vsftpd.PNG)
 
 Smb.conf
+![Vsftpd](imgs/samba.PNG)
