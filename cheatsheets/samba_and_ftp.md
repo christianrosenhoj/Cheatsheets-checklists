@@ -1,4 +1,4 @@
-#Samba and FTP
+ï»¿#Samba and FTP
 
 ## Thomas Clauwaert 
 
@@ -16,9 +16,9 @@
 | `loadkeys be-latin1`			| For Azerty
 | `systemctl list-units --type` | List of services
 | `systemctl status httpd`		| Services onderzoeken via status
-| `firewall-cmd [--permanent]   [--zone=ZONE] –add-service=http`| Firewalld add service
+| `firewall-cmd [--permanent]   [--zone=ZONE] -add-service=http`| Firewalld add service
 | `rpm -ql dhcp` 				| List of files in package (dhcp)
-| `journalctl –f` 				| Log files
+| `journalctl -f` 				| Log files
 | `getsebool -a` 				| List booleans in SELinux
 | `testparm`					| Test samba setup 
 
@@ -45,7 +45,7 @@
 | Samba service					| Meaning
 | :---							| :---
 | `Systemctl restart smbd` 		| Restart samba
-| `ps –ea | grep smbd` 			| Check the process of samba
+| `ps -ea | grep smbd` 			| Check the process of samba
 | `systemctl list-units --type` | Check running services
 
 | Samba service					| Meaning
