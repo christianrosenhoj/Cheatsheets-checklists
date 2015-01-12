@@ -35,3 +35,23 @@
 | sqlite3 vbdatabank.db				|maken van vbdatabank.db
 | .exit								|sqlite3 sluiten
 
+## Type Modellen (gecopy-plakt)
+
+### Lookup Model
+
+Normally, you would choose to load your look-up input only once. 
+This is the default Lookup Model of Load Once. 
+If you have a use-case where you need to reload the look-up input for each of your primary rows, then you have the option ofReload at each row or Reload at each row (cache).
+Depending on the size of your inputs, either of these latter two options are likely to severely impact the throughput of your Job.
+
+### Match Model
+
+The default Match Model is the curiously named Unique match. If your primary row matches multiple rows in your look-upinput, then only the last matching row will be output. The remaining options are First match, where only the first matching row will be output, and All matches where all matching rows will be output.
+
+### Join Model 
+
+The default Join Model is Left Outer Join, that is, if no matching row appears in the look-up input, rows from the primaryinput will still be output. If you need to perform an Antijoin, then select this option and exclude rows later, by outputting a key value from your look-up input and subsequently excluding rows where this value is null. The second option available is Inner Join. In this case, only rows where a successful match has been made against the look-up, will be output.
+
+### Store Temp Data
+
+If you are processing large datasets, you may find it helpful to set this option to true, to conserve memory. When set to true, you will also need to set Temp data directory path; which may be found on the Advanced settings component tab of tMap. Note that this is likely to have a negative impact on the overall throughput of your Job.
