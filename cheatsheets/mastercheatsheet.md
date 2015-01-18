@@ -43,9 +43,9 @@ sel
 smb
 bats
 ### <a name="opdracht6"></a> Opdracht 6: DHCP
-...
+<script src="https://gist.github.com/Ciberth/1a1083a2ee7e93139f9f.js"></script>
 ### <a name="opdracht7"></a> Opdracht 7: Troubleshooting Samba
-
+<script src="https://gist.github.com/Ciberth/fc7d7f87c7dde8b0e507.js"></script>
 ### <a name="opdracht8"></a> Opdracht 8: Integratie/VyOS
 
 ### <a name="opdracht9"></a> Opdracht 9: Groepslabo
