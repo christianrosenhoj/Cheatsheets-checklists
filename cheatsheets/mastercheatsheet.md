@@ -54,11 +54,6 @@ bats
 
 ### <a name="monitoring"></a> Extra 2: Monitoring
 
-- [Opdracht 8: Integratie/VyOS](#opdracht8)
-- [Opdracht 9: Groepslabo](#opdracht9)
-- [Extra 1: Mail](#mail)
-- [Extra 2: Monitoring](#monitoring)
-
 
 
 
