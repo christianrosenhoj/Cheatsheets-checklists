@@ -6,7 +6,7 @@ Master Cheatsheet Examen EL7
 Inhoudstafel
 ---------------
 
-Take me to [test](#werk)
+[Take me to test](#werk)
 
 In dit labo was het de bedoeling om een kapotte samba-configuratie werkend te krijgen.
 
