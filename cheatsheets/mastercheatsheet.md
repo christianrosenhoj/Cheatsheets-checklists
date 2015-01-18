@@ -7,8 +7,45 @@ Inhoudstafel
 ---------------
 
 [Take me to test](#werk)
+[Opdracht 0: Git/ssh/Vagrant](#opdracht0)
+[Opdracht 2: Webserver](#opdracht2)
+[Opdracht 3: Troubleshooting LAMP](#opdracht3)
+[Opdracht 4: DNS](#opdracht4)
+[Opdracht 5: File Server](#opdracht5)
 
-In dit labo was het de bedoeling om een kapotte samba-configuratie werkend te krijgen.
+
+extra: bats
+
+### <a name="opdracht0"></a> Opdracht 0: Git/ssh/Vagrant
+Git
+SSH
+Vagrant
+### <a name="opdracht2"></a> Opdracht 2: Webserver
+LAMP stack
+SEL
+Firewall
+Unit tests met bats
+### <a name="opdracht3"></a> Opdracht 3: Troubleshooting LAMP
+Genomen stappen
+### <a name="opdracht4"></a> Opdracht 4: DNS
+BIND
+zone bestand
+reverse zone bestand
+### <a name="opdracht5"></a> Opdracht 5: File Server
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Gegeven
 
