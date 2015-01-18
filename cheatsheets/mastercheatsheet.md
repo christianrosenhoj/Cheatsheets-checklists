@@ -6,12 +6,12 @@ Master Cheatsheet Examen EL7
 Inhoudstafel
 ---------------
 
-[Take me to test](#werk)
-[Opdracht 0: Git/ssh/Vagrant](#opdracht0)
-[Opdracht 2: Webserver](#opdracht2)
-[Opdracht 3: Troubleshooting LAMP](#opdracht3)
-[Opdracht 4: DNS](#opdracht4)
-[Opdracht 5: File Server](#opdracht5)
+- [Take me to test](#werk)
+- [Opdracht 0: Git/ssh/Vagrant](#opdracht0)
+- [Opdracht 2: Webserver](#opdracht2)
+- [Opdracht 3: Troubleshooting LAMP](#opdracht3)
+- [Opdracht 4: DNS](#opdracht4)
+- [Opdracht 5: File Server](#opdracht5)
 
 
 extra: bats
